@@ -26,7 +26,7 @@ const NavBar = () => {
             letterSpacing={2}
             textColor="white"
           >
-            Anima
+            AnimeFlix
           </Text>
         </HStack>
       </Link>
