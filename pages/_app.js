@@ -8,7 +8,7 @@ const MyApp = ({ Component, pageProps }) => {
   return (
     <ChakraProvider>
       <Head>
-        <title>Anima</title>
+        <title>AnimeFlix - Watch HD Anime Online Free EngSub & Dubbed</title>
       </Head>
       <NavBar />
       <Component {...pageProps} />
